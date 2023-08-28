@@ -6,9 +6,7 @@ Charting the knowledge of the Internet, just like Galileo charted the stars.
 
 ### GitHub Trainer
 
-- Teach all things **Git**
-- Give away all the stickers
-- Ensure world peace
+Teach all things *Git*, give away all the stickers, ensure world peace.
 
 <!--
   Note here: Learners -- yup, you found the error!
@@ -17,17 +15,14 @@ Charting the knowledge of the Internet, just like Galileo charted the stars.
 
 ### Supportocat
 
-- Provide *world-class support* to customers on the GitHub platform
+Provide _world class support_ to customers on the GitHub platform
 
 ## Skills
 
 ### Education
 
-- Developed and maintained various conference talks
-- Created online training materials
-- Conducted in-person training sessions covering various topics, including Git, GitHub, and Open Source.
+Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
 
 ### Leadership
 
-- Managed multiple *asynchronous teams*
-- Oversaw the development, maintenance, and release of various web applications and websites.
+Managed multiple _asynchronous teams_ in the development, maintenance, and release of various web applications and websites.
